@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0611-valid-triangle-number) |
 | [0704-binary-search](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0724-find-pivot-index) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0881-boats-to-save-people) |
 | [0918-maximum-sum-circular-subarray](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0918-maximum-sum-circular-subarray) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0278-first-bad-version) |
 | [0611-valid-triangle-number](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0611-valid-triangle-number) |
 | [0704-binary-search](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
