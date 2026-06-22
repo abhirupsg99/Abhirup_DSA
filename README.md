@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0881-boats-to-save-people) |
 | [0992-subarrays-with-k-different-integers](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0994-rotting-oranges) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Two Pointers
 |  |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0152-maximum-product-subarray) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 ## Stack
 |  |
 | ------- |
