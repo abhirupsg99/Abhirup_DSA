@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Two Pointers
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0611-valid-triangle-number) |
 | [0876-middle-of-the-linked-list](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0881-boats-to-save-people) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Dynamic Programming
 |  |
 | ------- |
