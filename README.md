@@ -100,4 +100,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0567-permutation-in-string) |
+## Math
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0319-bulb-switcher) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
