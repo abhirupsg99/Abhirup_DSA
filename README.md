@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0611-valid-triangle-number) |
 | [0881-boats-to-save-people](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0881-boats-to-save-people) |
 | [0992-subarrays-with-k-different-integers](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0992-subarrays-with-k-different-integers) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Two Pointers
 |  |
 | ------- |
@@ -104,8 +105,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0319-bulb-switcher) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Brainteaser
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0319-bulb-switcher) |
+## Recursion
+|  |
+| ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
+## Queue
+|  |
+| ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
+## Simulation
+|  |
+| ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
