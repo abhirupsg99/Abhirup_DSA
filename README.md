@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0075-sort-colors) |
 | [0152-maximum-product-subarray](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0200-number-of-islands](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0611-valid-triangle-number](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0611-valid-triangle-number) |
 | [0881-boats-to-save-people](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0881-boats-to-save-people) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0110-balanced-binary-tree) |
+| [0200-number-of-islands](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0200-number-of-islands) |
 ## Binary Tree
 |  |
 | ------- |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0200-number-of-islands](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0994-rotting-oranges) |
 ## Hash Table
 |  |
@@ -138,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0994-rotting-oranges) |
 ## Divide and Conquer
 |  |
@@ -148,4 +152,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0918-maximum-sum-circular-subarray) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
