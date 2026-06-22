@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0567-permutation-in-string) |
+| [0796-rotate-string](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0796-rotate-string) |
 ## Math
 |  |
 | ------- |
@@ -200,4 +201,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0509-fibonacci-number) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
