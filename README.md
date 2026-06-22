@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0611-valid-triangle-number](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0611-valid-triangle-number) |
+| [0881-boats-to-save-people](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0881-boats-to-save-people) |
 ## Two Pointers
 |  |
 | ------- |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0611-valid-triangle-number](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0611-valid-triangle-number) |
+| [0881-boats-to-save-people](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0881-boats-to-save-people) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -68,8 +70,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0075-sort-colors) |
 | [0611-valid-triangle-number](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0611-valid-triangle-number) |
+| [0881-boats-to-save-people](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0881-boats-to-save-people) |
 ## Greedy
 |  |
 | ------- |
 | [0611-valid-triangle-number](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0611-valid-triangle-number) |
+| [0881-boats-to-save-people](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
