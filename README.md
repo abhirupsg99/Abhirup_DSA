@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0611-valid-triangle-number](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0611-valid-triangle-number) |
+| [0704-binary-search](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0704-binary-search) |
 | [0881-boats-to-save-people](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0881-boats-to-save-people) |
 | [0918-maximum-sum-circular-subarray](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [0992-subarrays-with-k-different-integers](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0992-subarrays-with-k-different-integers) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0611-valid-triangle-number](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0611-valid-triangle-number) |
+| [0704-binary-search](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0704-binary-search) |
 ## Sorting
 |  |
 | ------- |
