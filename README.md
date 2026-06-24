@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0404-sum-of-left-leaves](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0404-sum-of-left-leaves) |
 | [0993-cousins-in-binary-tree](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0993-cousins-in-binary-tree) |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0200-number-of-islands) |
 | [0404-sum-of-left-leaves](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0404-sum-of-left-leaves) |
 | [0993-cousins-in-binary-tree](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0993-cousins-in-binary-tree) |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 ## Binary Tree
 |  |
 | ------- |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0404-sum-of-left-leaves](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0404-sum-of-left-leaves) |
 | [0993-cousins-in-binary-tree](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0993-cousins-in-binary-tree) |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 ## Breadth-First Search
 |  |
 | ------- |
