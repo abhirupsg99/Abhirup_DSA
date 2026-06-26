@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Two Pointers
 |  |
@@ -275,4 +276,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0338-counting-bits](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0338-counting-bits) |
+| [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 <!---LeetCode Topics End-->
