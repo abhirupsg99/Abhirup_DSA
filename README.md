@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0069-sqrtx) |
 | [0319-bulb-switcher](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0319-bulb-switcher) |
 | [0509-fibonacci-number](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0509-fibonacci-number) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Brainteaser
 |  |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Matrix
 |  |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0338-counting-bits](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0338-counting-bits) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 ## Counting Sort
