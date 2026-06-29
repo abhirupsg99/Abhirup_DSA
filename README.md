@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0198-house-robber) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0044-wildcard-matching) |
 | [0611-valid-triangle-number](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0611-valid-triangle-number) |
 | [0881-boats-to-save-people](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0881-boats-to-save-people) |
 | [1833-maximum-ice-cream-bars](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/1833-maximum-ice-cream-bars) |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0044-wildcard-matching) |
 | [0567-permutation-in-string](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0567-permutation-in-string) |
 | [0796-rotate-string](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0796-rotate-string) |
 ## Math
@@ -224,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0206-reverse-linked-list) |
 | [0509-fibonacci-number](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0509-fibonacci-number) |
