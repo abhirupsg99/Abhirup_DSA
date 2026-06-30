@@ -205,12 +205,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0992-subarrays-with-k-different-integers](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0992-subarrays-with-k-different-integers) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/1704-determine-if-string-halves-are-alike) |
 ## String
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0044-wildcard-matching) |
 | [0567-permutation-in-string](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0567-permutation-in-string) |
 | [0796-rotate-string](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0796-rotate-string) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/1704-determine-if-string-halves-are-alike) |
 ## Math
 |  |
 | ------- |
