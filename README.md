@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0796-rotate-string) |
 | [1544-make-the-string-great](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/1544-make-the-string-great) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/1704-determine-if-string-halves-are-alike) |
+| [1759-count-number-of-homogenous-substrings](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/1759-count-number-of-homogenous-substrings) |
 ## Math
 |  |
 | ------- |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0319-bulb-switcher](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0319-bulb-switcher) |
 | [0509-fibonacci-number](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0509-fibonacci-number) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [1759-count-number-of-homogenous-substrings](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/1759-count-number-of-homogenous-substrings) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Brainteaser
 |  |
