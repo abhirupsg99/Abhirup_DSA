@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0567-permutation-in-string](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0567-permutation-in-string) |
 | [0992-subarrays-with-k-different-integers](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0992-subarrays-with-k-different-integers) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 ## Binary Search
 |  |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1544-make-the-string-great](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/1544-make-the-string-great) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1759-count-number-of-homogenous-substrings](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/1759-count-number-of-homogenous-substrings) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Math
 |  |
 | ------- |
