@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0881-boats-to-save-people) |
 | [0918-maximum-sum-circular-subarray](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0918-maximum-sum-circular-subarray) |
+| [0944-delete-columns-to-make-sorted](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0944-delete-columns-to-make-sorted) |
 | [0992-subarrays-with-k-different-integers](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/1004-max-consecutive-ones-iii) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0567-permutation-in-string) |
 | [0796-rotate-string](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0796-rotate-string) |
+| [0944-delete-columns-to-make-sorted](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0944-delete-columns-to-make-sorted) |
 | [1544-make-the-string-great](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/1544-make-the-string-great) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1759-count-number-of-homogenous-substrings](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/1759-count-number-of-homogenous-substrings) |
