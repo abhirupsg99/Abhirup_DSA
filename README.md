@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0044-wildcard-matching) |
 | [0611-valid-triangle-number](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0611-valid-triangle-number) |
 | [0881-boats-to-save-people](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0881-boats-to-save-people) |
+| [0991-broken-calculator](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0991-broken-calculator) |
 | [1833-maximum-ice-cream-bars](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/1833-maximum-ice-cream-bars) |
 ## Sliding Window
 |  |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0069-sqrtx) |
 | [0319-bulb-switcher](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0319-bulb-switcher) |
 | [0509-fibonacci-number](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0509-fibonacci-number) |
+| [0991-broken-calculator](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0991-broken-calculator) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1759-count-number-of-homogenous-substrings](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/1759-count-number-of-homogenous-substrings) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
