@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0611-valid-triangle-number](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0611-valid-triangle-number) |
 | [0704-binary-search](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0704-binary-search) |
+| [0713-subarray-product-less-than-k](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0875-koko-eating-bananas) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0278-first-bad-version) |
 | [0611-valid-triangle-number](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0611-valid-triangle-number) |
 | [0704-binary-search](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0704-binary-search) |
+| [0713-subarray-product-less-than-k](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/1004-max-consecutive-ones-iii) |
@@ -202,12 +204,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0567-permutation-in-string](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0567-permutation-in-string) |
+| [0713-subarray-product-less-than-k](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0713-subarray-product-less-than-k](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Counting
