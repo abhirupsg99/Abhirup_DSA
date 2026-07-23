@@ -1,9 +1,18 @@
 class Solution {
 public:
+    int counter(int num){
+        int cnt=0;
+        while(num){
+            cnt+=(num&1);
+            num=num>>1;
+
+        }return cnt;
+
+    }
     vector<int> sortByBits(vector<int>& arr) {
         sort(arr.begin(),arr.end(),[&](int a,int b){
-            int bitsA=__builtin_popcount(a);
-            int bitsB=__builtin_popcount(b);
+            int bitsA=counter(a);
+            int bitsB=counter(b);
             if(bitsA==bitsB)
             {
                 return a<b;
