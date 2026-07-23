@@ -318,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0190-reverse-bits](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0191-number-of-1-bits) |
+| [0201-bitwise-and-of-numbers-range](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0222-count-complete-tree-nodes](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0338-counting-bits](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0338-counting-bits) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
