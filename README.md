@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1833-maximum-ice-cream-bars](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/1833-maximum-ice-cream-bars) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0075-sort-colors) |
 | [0611-valid-triangle-number](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0611-valid-triangle-number) |
 | [0881-boats-to-save-people](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0881-boats-to-save-people) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1833-maximum-ice-cream-bars](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/1833-maximum-ice-cream-bars) |
 ## Greedy
 |  |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0992-subarrays-with-k-different-integers](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0992-subarrays-with-k-different-integers) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/1704-determine-if-string-halves-are-alike) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 ## String
@@ -317,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0338-counting-bits](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0338-counting-bits) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/2433-find-the-original-array-of-prefix-xor) |
