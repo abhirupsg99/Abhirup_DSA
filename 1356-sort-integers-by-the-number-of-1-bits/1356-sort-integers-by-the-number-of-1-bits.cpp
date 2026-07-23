@@ -3,8 +3,8 @@ public:
     int counter(int num){
         int cnt=0;
         while(num){
-            cnt+=(num&1);
-            num=num>>1;
+            cnt++;
+            num=num & (num-1);
 
         }return cnt;
 
