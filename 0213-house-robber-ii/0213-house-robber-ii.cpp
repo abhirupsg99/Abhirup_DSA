@@ -1,17 +1,15 @@
 class Solution {
 public:
     int helper(vector<int>& nums, int st, int e){
-        int n=nums.size();
-        
-        int prev1=nums[st];
-        int prev2=max(nums[st],nums[st+1]);
-        int result=prev2;
-        for(int i=st+2,j=2;i<=e;i++,j++){
-            result=max(prev2,prev1+nums[i]);
-            prev1=prev2;
-            prev2=result;
+        int n=e-st+1;
+        vector<int> dp(n);
+        if(n==1) return nums[0];
+        dp[0]=nums[st];
+        dp[1]=max(nums[st],nums[st+1]);
+        for(int i=2;i<n;i++){
+            dp[i]=max(dp[i-1],dp[i-2]+nums[st+i]);
         }
-        return result;
+        return dp[n-1];
     }
 
     int rob(vector<int>& nums) {
