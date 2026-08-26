@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0881-boats-to-save-people) |
+| [0904-fruit-into-baskets](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [0944-delete-columns-to-make-sorted](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0944-delete-columns-to-make-sorted) |
 | [0992-subarrays-with-k-different-integers](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0992-subarrays-with-k-different-integers) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0567-permutation-in-string](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0567-permutation-in-string) |
+| [0904-fruit-into-baskets](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/2150-find-all-lonely-numbers-in-the-array) |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0567-permutation-in-string](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0567-permutation-in-string) |
 | [0713-subarray-product-less-than-k](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0713-subarray-product-less-than-k) |
+| [0904-fruit-into-baskets](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
