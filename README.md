@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0057-insert-interval) |
 | [0075-sort-colors](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0075-sort-colors) |
 | [0130-surrounded-regions](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0130-surrounded-regions) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0055-jump-game) |
 | [0131-palindrome-partitioning](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0198-house-robber) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0044-wildcard-matching) |
+| [0055-jump-game](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0055-jump-game) |
 | [0611-valid-triangle-number](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0611-valid-triangle-number) |
 | [0881-boats-to-save-people](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0881-boats-to-save-people) |
 | [0991-broken-calculator](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0991-broken-calculator) |
