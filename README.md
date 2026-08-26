@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1833-maximum-ice-cream-bars](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/1833-maximum-ice-cream-bars) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/1833-maximum-ice-cream-bars) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Greedy
 |  |
 | ------- |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/abhirupsg99/Abhirup_DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Prefix Sum
 |  |
 | ------- |
